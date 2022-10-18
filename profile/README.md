@@ -6,5 +6,5 @@
 <h4 align="center">
     프리즘 개발팀입니다.<br><br>
     <a href="https://discord.gg/prism">
-        개발서버 바로가기
+        프리즘 바로가기
 </h4>
